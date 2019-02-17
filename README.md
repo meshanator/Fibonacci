@@ -46,5 +46,6 @@ int fibonacciLinear(int n){
 }
 
 ```
-###Demo 
+### Demo
+
 ![alt text](https://raw.githubusercontent.com/meshanator/Fibonacci/master/demo1.PNG "demo")
